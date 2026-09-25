@@ -23,7 +23,7 @@ public static void main(String[] args){
     course cs4 = new course("Software Engineering", 70);
 
     cs1.displayStudentInfo();
-    cs1.displayPassPercentageInfo(52);
+    cs1.displayPassPercentageInfo(65);
     cs2.displayStudentInfo();
     cs2.displayPassPercentageInfo(17);
     cs3.displayStudentInfo();
