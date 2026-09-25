@@ -19,7 +19,7 @@ public void displayPassPercentageInfo(double numberOfStudentPassed){
 public static void main(String[] args){
     course cs1 = new course("Computer Science", 75);
     course cs2 = new course("Business and Management", 60);
-    course cs3 = new course("Mathematics", 15);
+    course cs3 = new course("Mathematics", 80);
     course cs4 = new course("Software Engineering", 70);
 
     cs1.displayStudentInfo();
